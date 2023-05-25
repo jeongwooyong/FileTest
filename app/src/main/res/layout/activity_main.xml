@@ -41,6 +41,20 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="쓰기" />
+
+        <Button
+            android:id="@+id/extRead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="외부읽기" />
+
+        <Button
+            android:id="@+id/extWrite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="외부쓰기" />
     </LinearLayout>
 
 </LinearLayout>
